@@ -3,10 +3,10 @@
 [![banner](/Pictures/banner_1200x630.svg)](#)
 
 Hyrax is a Latin (ID: `*Latn`) Display font designed by
-[João Ares](https://www.behance.net/joaoaresdesign). Its design is bold and
-geometric with chunky letterforms with rounded edges and a playful,
-retro-futuristic aesthetic. Its distinctive bubble-like shapes and consistent
-weight make it ideal for any eye-catching textface.
+[João Ares](https://www.behance.net/gallery/217366581/Hyrax-Free-Geometric-Display-Font).
+Its design is bold and geometric with chunky letterforms with rounded edges and
+a playful, retro-futuristic aesthetic. Its distinctive bubble-like shapes and
+consistent weight make it ideal for any eye-catching textface.
 
 This font is ideal for attention seeking text like poster title, movie title,
 movie notice headings, and body headings.
